@@ -30,5 +30,3 @@ jobs:
       - name: Run a simple test
         run: echo "Running tests... ✅"
 
-      - name: Fail the workflow
-        run: exit 1
